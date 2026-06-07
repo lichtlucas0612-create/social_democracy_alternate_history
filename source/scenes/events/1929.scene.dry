@@ -1,4 +1,4 @@
-title: 1929
+title: 2018
 subtitle: A new year
 on-arrival: {!
 // see post_event.scene.dry for changes.
@@ -6,8 +6,9 @@ Q.economic_growth -= 4;
 
 !}
 tags: event
-view-if: year = 1929 and month = 1
+view-if: year = 2018 and month = 1
 priority: 2
 max-visits: 1
 
-A new year begins. The economy appears to be slackening; unemployment is increasing throughout the republic, although for the most part, people are still doing well.
+A new year begins. The unemployment is slightly increasing throughout the republic, although for the most part, people are still doing well.
+In Sweden a young ecologic activist becomes more famous and gets support. See what future brings.
