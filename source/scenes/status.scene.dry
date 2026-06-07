@@ -162,17 +162,17 @@ SPD: [+ spd_votes +]%
 
 [? if sapd_formed: SAPD: [+ sapd_votes +]% ?]
 
-Z + BVP: [+ z_votes +]%
+CDU/CSU: [+ z_votes +]%
 
-KPD: [+ kpd_votes +]%
+Die Linke: [+ kpd_votes +]%
 
-[? if not ddp_name: DDP?][? if ddp_name != 0 : [+ ddp_name +]?]: [+ ddp_votes +]%
+[? if not ddp_name: B90/G?][? if ddp_name != 0 : [+ ddp_name +]?]: [+ ddp_votes +]%
 
-DVP: [+ dvp_votes +]%
+FDP: [+ dvp_votes +]%
 
-DNVP: [+ dnvp_votes +]%
+AfD: [+ dnvp_votes +]%
 
-NSDAP: [+ nsdap_votes +]%
+NPD: [+ nsdap_votes +]%
 
 Others: [+ other_votes +]%
 
